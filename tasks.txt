@@ -1,4 +1,2 @@
-# To-Do List
-Complete Git lesson
-Review Python basics
-Start Python exercises
+select *
+from dbo.books_tags
